@@ -1,12 +1,14 @@
 # MessageView
 
-申明：
+说明：
     
-    本View是基于BadgeView作者的思想实现的！
-
+    本View是基于BadgeView作者的思想实现的！保证了View在小屏幕手机上也不会变形！
+    
+    
 Thanks：
     
       BadgeView作者！
+      
     
  Usage：
     
